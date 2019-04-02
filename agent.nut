@@ -1,8 +1,7 @@
 // hugo@electricimp.com 20190317
 //
 // Simple serial terminal using xtermjs
-// See https://www.electricimp.com/secure-web-based-serial-terminal/ for more
-// detail
+// See https://connect.electricimp.com/blog/secure-web-based-serial-terminal for more detail
 #require "rocky.class.nut:2.0.2"
 
 AUTH <- "username:password";
