@@ -12,8 +12,8 @@ debug <- false;
 const HTML_STRING = @"<!doctype html>
  <html>
    <head>
-     <link rel=""stylesheet"" href=""https://unpkg.com/xterm/dist/xterm.css"" />
-     <script src=""https://unpkg.com/xterm/dist/xterm.js""></script>
+     <link rel=""stylesheet"" href=""https://unpkg.com/xterm@3.14.5/dist/xterm.css"" />
+     <script src=""https://unpkg.com/xterm@3.14.5/dist/xterm.js""></script>
    </head>
    <body>
      <div id=""terminal""></div>
